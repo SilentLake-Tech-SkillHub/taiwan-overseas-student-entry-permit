@@ -1,0 +1,6 @@
+interface:
+  display_name: "海外留学生入台证"
+  short_description: "整理海外留学生赴台观光单次或一年多次证材料并审核申请"
+  default_prompt: "使用 $taiwan-overseas-student-entry-permit，先告知所需资料与用户操作，再协助我准备申请。"
+policy:
+  allow_implicit_invocation: false

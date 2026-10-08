@@ -1,0 +1,9 @@
+# Public Skill package: deny by default to keep applicant files out of Git.
+*
+!.gitignore
+!SKILL.md
+!README.md
+!agents/
+!agents/openai.yaml
+!references/
+!references/*.md
